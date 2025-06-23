@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//I scored 20/20 in this examination
 
 class Event
 {
