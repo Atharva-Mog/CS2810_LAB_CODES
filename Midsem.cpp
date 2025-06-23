@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-
+//I scored 7/20 in this examination
 
 /*class Comparator // functor to sort the array
 {
